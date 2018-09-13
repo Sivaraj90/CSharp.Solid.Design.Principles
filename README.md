@@ -1,0 +1,1 @@
+# CSharp.Solid.Design.Principles
